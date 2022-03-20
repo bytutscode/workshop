@@ -25,7 +25,7 @@ header {
 
 
 section {
-    background-image: url(images/Cópia\ de\ people.jpg);
+    background-image: url(images/people.jpg);
     background-size: cover;
     padding: 20px;
     overflow: hidden;
@@ -59,7 +59,7 @@ section {
     appearance: none;
     -moz-appearance: none;
     -webkit-appearance: none;
-    background-image: url(images/Cópia\ de\ arrow.jpg);
+    background-image: url(images/Cópia\arrow.jpg);
     background-repeat: no-repeat;
     background-position: calc(100% - 10px) center;
 }
